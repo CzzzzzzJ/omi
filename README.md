@@ -56,13 +56,10 @@ omi-skill/
 直接把下面这句话发给你的 Agent，让它帮你完成安装：
 
 ```
-帮我安装这个 skill：git clone https://github.com/CzzzzzzJ/omi.git，然后把 SKILL.md 配置为当前 Agent 的 Skill 入口，prompts/ 目录中的文件作为各步骤的 Prompt 引用
+帮我安装这个 skill：git clone https://github.com/CzzzzzzJ/omi.git
+prompts/ 目录中的文件作为各步骤的 Prompt 引用
 ```
 
-或手动安装：
-1. 将 `SKILL.md` 作为 Agent 的系统指令或工作流入口
-2. 将 `prompts/` 目录中的各步骤 Prompt 配置到对应节点
-3. 确保你的 Agent 已接入图片生成工具
 
 ---
 
