@@ -1,3 +1,10 @@
+> ⚠️ **已迁至合集仓**：[CzzzzzzJ/mdldm-skills](https://github.com/CzzzzzzJ/mdldm-skills)（`skills/omi`）
+>
+> 推荐安装：
+> ```bash
+> npx skills add CzzzzzzJ/mdldm-skills --skill omi
+> ```
+> 本仓仍保留约 90 天兼容，旧安装方式暂时可用；新项目请改用合集仓。
 # Omi3.0 小红书笔记生产线
 
 > 一套适用于任何 Agent 平台的小红书图文笔记自动生成 Skill。输入内容素材 + IP形象，自动产出完整的分镜脚本 JSON + 封面图 + 内容页图。
